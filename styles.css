@@ -20,6 +20,14 @@ h1 {
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #4ECCA3;
+} 
+h2{
+  color: #66BFBF;
+  font-family:'Montserrat' ,sans-serif ;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding: 10px;
+
 }
 
 p {
